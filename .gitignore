@@ -14,3 +14,7 @@ coverage.txt
 /bin
 .vscode
 .mdoxcache
+
+.aider*
+logs/
+vendor/
